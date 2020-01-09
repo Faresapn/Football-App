@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/first"
+
+        android:icon="@drawable/outline_menu_black_18dp"
+        android:title=" " />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/outline_search_black_18dp"
+        android:title=" " />
+    <item
+        android:id="@+id/dolar"
+        android:icon="@drawable/dollar_symbol"
+        android:title=" " />
+    <item
+        android:id="@+id/akun"
+        android:icon="@drawable/outline_people_black_18dp"
+        android:title=" " />
+</menu>

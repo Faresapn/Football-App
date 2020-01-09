@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="la_liga">La Liga</string>
+    <string name="bpl">BPL</string>
+    <string name="strhometeam">strHomeTeam</string>
+    <string name="strawayteam">strAwayTeam</string>
+    <string name="dateevent">dateEvent</string>
+    <string name="strleague">strLeague</string>
+</resources>
